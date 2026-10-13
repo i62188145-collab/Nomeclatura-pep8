@@ -64,7 +64,7 @@ def main():
     """Ejecuta el menú principal del programa."""
     continuar = True
     temperatura = 0
-
+    """No sea Weon"""
     while continuar:
         opcion = input(MENU)
         if opcion == "1":
